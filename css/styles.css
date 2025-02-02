@@ -240,6 +240,27 @@ a {
     color: #0f0f0f;
 }
 
+.brands {
+    height: 122px;
+    width: 100%;
+    background-color: #000000;
+    justify-content: space-between;
+}
+
+.brands_container {
+    height: 122px; 
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.brand_logo_1, .brand_logo_5 {
+    align-self: flex-start;
+    margin-top: 10px;
+}
+
+
 /* =======================
    Section Components
 ========================= */
